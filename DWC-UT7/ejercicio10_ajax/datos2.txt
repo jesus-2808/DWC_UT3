@@ -1,0 +1,1 @@
+Nombre: pedro, Correo: pedro23@gmail.com, Edad: 25
